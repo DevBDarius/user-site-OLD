@@ -1,3 +1,3 @@
-# My first webpage[https://devbdarius.github.io/]
+# [My first webpage](https://devbdarius.github.io/)
 
 My first website; focus on responsive layout and design/colors
